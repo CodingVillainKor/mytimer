@@ -1,0 +1,1 @@
+from .mytimer import elapsed_time
